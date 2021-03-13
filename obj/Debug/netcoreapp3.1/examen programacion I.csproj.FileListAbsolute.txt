@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\examen programacion I\obj\Debug\netcoreapp3.1\examen programacion I.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\examen programacion I\obj\Debug\netcoreapp3.1\examen programacion I.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\examen programacion I\obj\Debug\netcoreapp3.1\examen programacion I.AssemblyInfo.cs
+C:\Users\USER\Desktop\examen programacion I\obj\Debug\netcoreapp3.1\examen programacion I.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\examen programacion I\bin\Debug\netcoreapp3.1\examen programacion I.exe
+C:\Users\USER\Desktop\examen programacion I\bin\Debug\netcoreapp3.1\examen programacion I.deps.json
+C:\Users\USER\Desktop\examen programacion I\bin\Debug\netcoreapp3.1\examen programacion I.runtimeconfig.json
+C:\Users\USER\Desktop\examen programacion I\bin\Debug\netcoreapp3.1\examen programacion I.runtimeconfig.dev.json
+C:\Users\USER\Desktop\examen programacion I\bin\Debug\netcoreapp3.1\examen programacion I.dll
+C:\Users\USER\Desktop\examen programacion I\bin\Debug\netcoreapp3.1\examen programacion I.pdb
+C:\Users\USER\Desktop\examen programacion I\obj\Debug\netcoreapp3.1\examen programacion I.dll
+C:\Users\USER\Desktop\examen programacion I\obj\Debug\netcoreapp3.1\examen programacion I.pdb
+C:\Users\USER\Desktop\examen programacion I\obj\Debug\netcoreapp3.1\examen programacion I.genruntimeconfig.cache
